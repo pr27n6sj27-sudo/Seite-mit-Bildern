@@ -1,0 +1,14 @@
+a { color:#5D5D9E; } 
+a:visited { color:#5D5D9E; } 
+a:active { color:#5C615E; } 
+a:hover { color:#B2B3B4; } 
+body { background-color:#FFFFFF; padding:0;  margin: 0; }
+.textstyle1 { text-align:center; }
+.textstyle2 { font-size:22pt; font-family:'Segoe Print', 'Bradley Hand', Chilanka, TSCu_Comic, casual, cursive; color:#000000;  }
+.textstyle3 { font-size:12pt; font-family:'Segoe Print', 'Bradley Hand', Chilanka, TSCu_Comic, casual, cursive; color:#000000;  }
+.textstyle4 { text-align:left; }
+#img_26be2b { vertical-align: bottom; position:relative; display: inline-block; width:50%; background:none; height:auto;  }
+#img_49364a9 { vertical-align: bottom; position:relative; display: inline-block; width:50%; background:none; height:auto;  }
+.ulstyle1 { margin:0; font-size: 12pt; color:#5D5D9E; list-style-position: inside;  }
+.textstyle5 { font-size:14pt; font-family:'Segoe Print', 'Bradley Hand', Chilanka, TSCu_Comic, casual, cursive; color:#C93FEB; text-decoration:underline;  }
+.textstyle6 { font-size:14pt; font-family:'Segoe Print', 'Bradley Hand', Chilanka, TSCu_Comic, casual, cursive; color:#000000;  }
